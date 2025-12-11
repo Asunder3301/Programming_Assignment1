@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\trash\source\repos\Assignment1\Assignment1\Source.cpp(16,9): warning C4101: 'fahrenheit': unreferenced local variable
+C:\Users\trash\source\repos\Assignment1\Assignment1\Source.cpp(16,30): warning C4101: 'kelvin': unreferenced local variable
+  Assignment1.vcxproj -> C:\Users\trash\source\repos\Assignment1\x64\Debug\Assignment1.exe
