@@ -2,8 +2,7 @@
 //CISP-1010 W01
 //Programming Assignment 1
 //Sept 17, 2025
-//Descption: program takes name, the current day, month, year and takes a degree in Celsius from the user, then it outputs the information onto the console as well as the Celsius degree converted into Fahrenheit and Kelvin.
-
+//Descption: Program takes name, the current day, month, year and takes a degree in Celsius from the user, then it outputs the information onto the console as well as the Celsius degree converted into Fahrenheit and Kelvin.
 #include <iostream>
 #include <string>
 #include <iomanip>
